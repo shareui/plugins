@@ -4,16 +4,19 @@
       "displayName": "Test Name",
       "description": "test plugin",
       "usage": ".usage"
+      "link": "t.me/shareui"
     },
     "logger": {
       "displayName": "Log",
       "description": "logging plugin",
       "usage": ".log [text]"
+      "link": "t.me/shareui"
     },
     "weather": {
       "displayName": "Weather",
       "description": "weather info plugin",
       "usage": ".weather [city]"
+      "link": "t.me/shareui"
     }
   }
 }
