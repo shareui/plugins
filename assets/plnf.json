@@ -12,6 +12,12 @@
       "usage": ".log [text]",
       "link": "t.me/shareui"
     },
+    "test2": {
+      "displayName": "Log",
+      "description": "logging plugin",
+      "usage": ".log [text]",
+      "link": "t.me/shareui"
+    },
     "weather": {
       "displayName": "Weather",
       "description": "weather info plugin",
