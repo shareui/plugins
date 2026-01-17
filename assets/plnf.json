@@ -18,6 +18,12 @@
       "usage": ".log [text]",
       "link": "t.me/shareui"
     },
+    "test5": {
+      "displayName": "Log",
+      "description": "logging plugin",
+      "usage": ".log [text]",
+      "link": "t.me/shareui"
+    },
     "test3": {
       "displayName": "Log2",
       "description": "logging plugin",
