@@ -1,40 +1,22 @@
 {
   "plugins": {
-    "testname": {
-      "displayName": "Test Name",
-      "description": "test plugin",
-      "usage": ".usage",
-      "link": "t.me/shareui"
+    "pluginify": {
+      "displayName": "Pluginify search",
+      "description": "You're using it now!",
+      "usage": "In post",
+      "link": "https://t.me/plnarchive/6"
     },
-    "logger": {
-      "displayName": "Log",
-      "description": "logging plugin",
-      "usage": ".log [text]",
-      "link": "t.me/shareui"
+    "Panic Passcode": {
+      "displayName": "Panic Passcode Pro",
+      "description": "Panic button deletes all app information.",
+      "usage": "In settings",
+      "link": "https://t.me/plnufy/13"
     },
-    "test2": {
-      "displayName": "Log",
-      "description": "logging plugin",
-      "usage": ".log [text]",
-      "link": "t.me/shareui"
-    },
-    "test5": {
-      "displayName": "Log",
-      "description": "logging plugin",
-      "usage": ".log [text]",
-      "link": "t.me/shareui"
-    },
-    "test3": {
-      "displayName": "Log2",
-      "description": "logging plugin",
-      "usage": ".log [text]",
-      "link": "t.me/shareui"
-    },
-    "weather": {
-      "displayName": "Weather",
-      "description": "weather info plugin",
-      "usage": ".weather [city]",
-      "link": "t.me/shareui"
+    "Voice Search": {
+      "displayName": "Voice Search Pro v2",
+      "description": "Universal voice transcription search.",
+      "usage": "In post",
+      "link": "https://t.me/plnufy/14"
     }
   }
 }
