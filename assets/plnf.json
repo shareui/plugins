@@ -6,13 +6,25 @@
       "usage": "In post",
       "link": "https://t.me/plnufy/11"
     },
-    "Panic Passcode": {
+    "panic passcode": {
       "displayName": "Panic Passcode Pro",
       "description": "Panic button deletes all app information.",
       "usage": "In settings",
       "link": "https://t.me/plnufy/13"
     },
-    "Voice Search": {
+    "QuantaHut": {
+      "displayName": "QuantaHut",
+      "description": "Library for Quanta Plugins",
+      "usage": "Empty",
+      "link": "https://t.me/plnufy/16"
+    },
+    "uitweaks": {
+      "displayName": "UiTweaks",
+      "description": "Multifunctional UI plugin.",
+      "usage": "In settings",
+      "link": "https://t.me/plnufy/17"
+    },
+    "voice search": {
       "displayName": "Voice Search Pro v2",
       "description": "Universal voice transcription search.",
       "usage": "In post",
