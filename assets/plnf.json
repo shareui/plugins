@@ -18,6 +18,18 @@
       "usage": "Empty",
       "link": "https://t.me/plnufy/16"
     },
+    "spinning messages": {
+      "displayName": "Spinning Messages",
+      "description": "Causes messages to rotate around their axis when scrolling through the chat.",
+      "usage": "In settings",
+      "link": "https://t.me/plnufy/19"
+    },
+    "osu search": {
+      "displayName": "osu! Search",
+      "description": "Search for osu! maps and profiles with flexible customization and download options.",
+      "usage": "In post",
+      "link": "https://t.me/plnufy/18"
+    },
     "uitweaks": {
       "displayName": "UiTweaks",
       "description": "Multifunctional UI plugin.",
