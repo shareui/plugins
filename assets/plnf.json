@@ -24,6 +24,12 @@
       "usage": "In settings",
       "link": "https://t.me/plnufy/19"
     },
+    "plugin_creator": {
+      "displayName": "Plugin creator",
+      "description": "Plugin for quick plugin creation from code.",
+      "usage": "In post",
+      "link": "https://t.me/plnufy/25"
+    },
     "osu search": {
       "displayName": "osu! Search",
       "description": "Search for osu! maps and profiles with flexible customization and download options.",
