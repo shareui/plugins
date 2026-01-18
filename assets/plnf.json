@@ -42,6 +42,13 @@
       "usage": "In settings",
       "link": "https://t.me/plnufy/20"
     },
+    "reminder": {
+      "displayName": "Напоминалка (Reminder)",
+      "description": "Reminds you of anything using system notifications in exteraGram/AyuGram.",
+      "usage": "In settings",
+      "link": "https://t.me/plnufy/22"
+    },
+    
     "voice search": {
       "displayName": "Voice Search Pro v2",
       "description": "Universal voice transcription search.",
