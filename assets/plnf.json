@@ -54,7 +54,12 @@
       "usage": "In settings",
       "link": "https://t.me/plnufy/22"
     },
-    
+    "quotify plus": {
+      "displayName": "[FORK] Quotify+",
+      "description": "Enhanced version of Quotify, allowing to create stylish quotes as images.",
+      "usage": "In post",
+      "link": "https://t.me/plnufy/26"
+    },
     "voice search": {
       "displayName": "Voice Search Pro v2",
       "description": "Universal voice transcription search.",
