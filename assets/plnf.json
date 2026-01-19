@@ -60,6 +60,12 @@
       "usage": "In post",
       "link": "https://t.me/plnufy/26"
     },
+    "kmp": {
+      "displayName": "Kangel Plugins Manager",
+      "description": "Plugin that provides easy management of plugins through a simple GUI",
+      "usage": "In settings",
+      "link": "https://t.me/plnufy/27"
+    },
     "voice search": {
       "displayName": "Voice Search Pro v2",
       "description": "Universal voice transcription search.",
